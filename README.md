@@ -80,8 +80,7 @@ The robot's operations are divided into the following steps:
   - Overcame challenges related to motor performance differences by fine-tuning speed settings for each motor.
 - **Lego Digital Designer**:
   - Validated the robot's structure and design feasibility before assembly.
-    ![pingpong_col](https://github.com/user-attachments/assets/65779e12-9556-4861-9265-424882be1440)
-    <img src="https://github.com/user-attachments/assets/65779e12-9556-4861-9265-424882be1440" alt="Lego Digital Designer of Pingpong Robot" width="500"/>
+    <img src="https://github.com/user-attachments/assets/65779e12-9556-4861-9265-424882be1440" alt="Lego Digital Designer of Pingpong Robot" width="700"/>
 
 
 ---
