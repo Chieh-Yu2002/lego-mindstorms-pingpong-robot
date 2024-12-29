@@ -88,7 +88,3 @@ The robot's operations are divided into the following steps:
 ## License
 
 This project is released under the MIT License.
-
----
-
-如果需要進一步修改或補充，請隨時告訴我！
